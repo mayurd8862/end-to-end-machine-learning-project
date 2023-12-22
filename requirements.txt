@@ -3,4 +3,5 @@ numpy
 seaborn
 sklearn
 catboost
--e .
+dill
+# -e .
