@@ -22,6 +22,9 @@ version='0.0.1',
 author='mayur',
 author_email='mayurdabade1103@gmail.com',
 packages=find_packages(),
-install_requires=get_requirements('requirements.txt')
+install_requires=get_requirements('requirements.txt')   # function for getting all the requirements instead of adding it manually 
+
+# install_requires = ['numpy','pandas']         manually adding
+
 
 )
