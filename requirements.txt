@@ -5,4 +5,5 @@ sklearn
 catboost
 dill
 flask
+gunicorn
 # -e .
